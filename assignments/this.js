@@ -54,5 +54,5 @@ function CordialPerson(greeter) {
 // Principle 4
 
 
-jerry.speak.call(newman); //with the call method, we are assigning whatever is in newman to replace what was in jerry.
+jerry.speak.call(newman); //with the call method, we are assigning whatever is in newman to replace what was in obejct jerry. so the output to console would actually be Hello Newman.
 // code example for Explicit Binding
